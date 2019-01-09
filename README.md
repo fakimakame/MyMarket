@@ -6,7 +6,7 @@
   <li>Comparison of products price from different markets</li>
   <li>Uncertainty of availability of products in market</li>
   </ul>
-  <h3>Our ideas after brainstorming for solving above problems<h3>
+  <h3>Our ideas after brainstorming for solving above problems</h3>
   <ul>
     <li>Create website</li>
     <li>Mobile App</li>
