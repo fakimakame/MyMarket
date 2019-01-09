@@ -20,5 +20,13 @@
     <h4>MOBILE APP DESIGN</h4>
     We design interface for our mobile App
    <img src="https://github.com/fakimakame/MyMarket/blob/master/page1.jpg?raw=true"/>
- 
-  
+   <br>
+   Number 1 : Describe the first page of App that allow the user to select the product types such as grain, fruits, spices and so on
+   <br>
+   Number 2 : Describe the second page of the App that allow the user to select sub product from the main type of the product 
+   <br>
+   E.g for Grain sub products will
+   Rice <br>
+   Maize <br>
+   Beans<br>
+   Number 3 : Describe the third page that show the quantity and price of product from different markets
