@@ -31,4 +31,6 @@
    Beans<br>
    Number 3 : Describe the third page that show the quantity and price of product from different markets
    <br><br>
-   <img src=""/>
+   <img src="https://github.com/fakimakame/MyMarket/blob/master/page2.jpg?raw=true"/>
+   <br>
+   This page show the detail of contact about whole sellers 
