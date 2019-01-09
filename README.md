@@ -33,4 +33,4 @@
    <br><br>
    <img src="https://github.com/fakimakame/MyMarket/blob/master/page2.jpg?raw=true"/>
    <br>
-   This page show the detail of contact about whole sellers 
+   This page show the detail of contact about whole sellers, Market manager, Assistence Manager 
