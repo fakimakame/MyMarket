@@ -5,4 +5,5 @@
 <ul>
   <li>Comparison of products price from different markets</li>
   <li>Uncertainty of availability of products in market</li>
+  </ul>
   
