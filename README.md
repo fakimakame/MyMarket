@@ -34,3 +34,7 @@
    <img src="https://github.com/fakimakame/MyMarket/blob/master/page2.jpg?raw=true"/>
    <br>
    This page show the detail of contact about whole sellers, Market manager, Assistence Manager 
+   <br>
+   <h4>BILLBOARD</h4>
+   We design the billboard prototype for solving above problems<br>
+   
