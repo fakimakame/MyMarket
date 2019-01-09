@@ -25,8 +25,10 @@
    <br>
    Number 2 : Describe the second page of the App that allow the user to select sub product from the main type of the product 
    <br>
-   E.g for Grain sub products will
+   E.g for Grain sub products will<br>
    Rice <br>
    Maize <br>
    Beans<br>
    Number 3 : Describe the third page that show the quantity and price of product from different markets
+   <br><br>
+   <img src=""/>
