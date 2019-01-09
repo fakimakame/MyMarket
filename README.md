@@ -19,7 +19,6 @@
     
     <h4>MOBILE APP DESIGN</h4>
     We design interface for our mobile App
-    
-    
-  <h3>Our proposal design for solving problem</h3>
+   <img src=""/>
+ 
   
