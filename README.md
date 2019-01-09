@@ -7,13 +7,13 @@
   <li>Uncertainty of availability of products in market</li>
   </ul>
   <h3>Our ideas after brainstorming for solving above problems<h3>
-  <ol>
+  <ul>
     <li>Create website</li>
     <li>Mobile App</li>
     <li>Televion and radio broadcast</li>
     <li>Social media such as facebook page,instagram etc</li>
     <li>Billboard</li>
-    <ol>
+    <ul>
       <br>
     <p>For our side we decide to use mobile App and Billboard as a solution of the problems</p>
     
