@@ -1,24 +1,24 @@
-# My Marketss
-<h4>The major problem that the society of Dar Es Salaam face is knowing the price of products located on different market place.</h4>
+# My Market
+<h4>The major problem that the society of Tanzania faces is knowing the price of products located in different local markets.</h4>
 <img src="https://github.com/fakimakame/MyMarket/blob/master/kisutu.jpg?raw=true"/>
 <h3>PROBLEMS</h3>
 <ul>
-  <li>Comparison of products price from different markets</li>
-  <li>Uncertainty of availability of products in market</li>
+  <li>Comparison of product prices from different markets</li>
+  <li>Uncertainty of availability of products in markets</li>
   </ul>
-  <h3>Our ideas after brainstorming for solving above problems</h3>
+  <h3>Ideas for Solving the Problems</h3>
   <ul>
     <li>Create website</li>
     <li>Mobile App</li>
-    <li>Televion and radio broadcast</li>
-    <li>Social media such as facebook page,instagram etc</li>
-    <li>Billboard</li>
+    <li>Television and radio broadcasts</li>
+    <li>Social media adverts such as facebook page,instagram etc</li>
+    <li>Billboards</li>
     <ul>
       <br>
-    <p>For our side we decide to use mobile App and Billboard as a solution of the problems</p>
+    <p>Below are two of the best solutions to the Problem</p>
     
     <h4>MOBILE APP DESIGN</h4>
-    We design interface for our mobile App
+     Our Mobile App Prototype
    <img src="https://github.com/fakimakame/MyMarket/blob/master/page1.jpg?raw=true"/>
    <br>
    Number 1 : Describe the first page of App that allow the user to select the product types such as grain, fruits, spices and so on
@@ -36,5 +36,5 @@
    This page show the detail of contact about whole sellers, Market manager, Assistence Manager 
    <br>
    <h4>BILLBOARD</h4>
-   We design the billboard prototype for solving above problems<br>
+   The Billboard Prototype<br>
    <img src="https://github.com/fakimakame/MyMarket/blob/master/billboard.jpg?raw=true"/>
