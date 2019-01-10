@@ -21,19 +21,19 @@
      Our Mobile App Prototype
    <img src="https://github.com/fakimakame/MyMarket/blob/master/page1.jpg?raw=true"/>
    <br>
-   Number 1 : Describe the first page of App that allow the user to select the product types such as grain, fruits, spices and so on
+   Number 1 : The first page of App describes how the user can select the product types such as grain, fruits, spices and so on
    <br>
-   Number 2 : Describe the second page of the App that allow the user to select sub product from the main type of the product 
+   Number 2 : The second page of the App desribes how the user selects sub product from the main type of the product 
    <br>
    E.g for Grain sub products will<br>
    Rice <br>
    Maize <br>
    Beans<br>
-   Number 3 : Describe the third page that show the quantity and price of product from different markets
+   Number 3 : The third page shows the quantity and price of product from different markets
    <br><br>
    <img src="https://github.com/fakimakame/MyMarket/blob/master/page2.jpg?raw=true"/>
    <br>
-   This page show the detail of contact about whole sellers, Market manager, Assistence Manager 
+   This page shows the contacts of Whole Sellers, Market Managers, Assistance Manager 
    <br>
    <h4>BILLBOARD</h4>
    The Billboard Prototype<br>
